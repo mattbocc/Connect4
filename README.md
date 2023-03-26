@@ -1,3 +1,4 @@
+# Connect 4
 For this project I created a connect 4 game that can be played against an adversary taking on various degrees of difficulty. There are 3 different
 algorithms that the adversary can utilize (min/max, expectiminimax, and alpha-beta pruning) with 5 levels of difficulty for each. With each level 
 of difficulty the AI considers another set of moves that could be made by the player or the AI itself in future turns and then weighs the best options
